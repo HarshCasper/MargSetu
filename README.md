@@ -1,5 +1,10 @@
 # MargSetu
 
+<p align="center">
+  <a href="https://github.com/HarshCasper/MargSetu">
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-logo-square.png?auto=format%2Ccompress&dpr=1" alt="Logo" width="150" height="150">
+  </a>
+
 ## 📌 Introduction
 
 This Web Application powered by Machine Learning and Flask API is a Recommender System which can be used to recommend <b>Massive Open Online Courses (MOOCs)</b> to Students and 
