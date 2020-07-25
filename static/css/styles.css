@@ -1,0 +1,66 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  color: black;
+  font-family: Arial Black, sans-serif;
+  /* font-variant: small-caps; */
+  font-size: 23px;
+  font-weight: 700;
+  font-style: normal;
+  padding-top: 2rem;
+  /* padding-bottom: 0rem; */
+}
+
+footer {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.submission-form {
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+textarea {
+  margin: auto;
+  outline: none;
+  resize: none;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+button {
+  padding: 10px;
+  font-weight: 600;
+}
+
+.results-list {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.info-container {
+  text-align: center;
+  display: inline-block;
+}
+
+.info {
+  color: gray;
+}
