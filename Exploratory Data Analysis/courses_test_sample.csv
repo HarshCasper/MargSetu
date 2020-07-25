@@ -1,0 +1,88 @@
+name,description,job_title,course_id
+The Data Scientist’s Toolbox,"In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.",Data Scientist,3823
+Machine Learning,"Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.",Data Scientist,143
+Applied Machine Learning in Python,"This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will start with a discussion of how machine learning is different than descriptive statistics, and introduce the scikit learn toolkit through a tutorial. The issue of dimensionality of data will be discussed, and the task of clustering data, as well as evaluating those clusters, will be tackled. Supervised approaches for creating predictive models will be described, and learners will be able to apply the scikit learn predictive modelling methods while understanding process issues related to data generalizability (e.g. cross validation, overfitting). The course will end with a look at more advanced techniques, such as building ensembles, and practical limitations of predictive models. By the end of this course, students will be able to identify the difference between a supervised (classification) and unsupervised (clustering) technique, identify which technique they need to apply for a particular dataset and need, engineer features to meet that need, and write python code to carry out an analysis. 
+
+This course should be taken after Introduction to Data Science in Python and Applied Plotting, Charting & Data Representation in Python and before Applied Text Mining in Python and Applied Social Analysis in Python.",Data Scientist,3165
+Data Visualization with Python,"""A picture is worth a thousand words"". We are all familiar with this expression. It especially applies when trying to explain the insight obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data.
+
+One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
+
+The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+
+LIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.",Data Scientist,3588
+Machine Learning with Python,"This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
+In this course, we will be reviewing two main components:
+First, you will be learning about the purpose of Machine Learning and where it applies to the real world. 
+Second, you will get a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms. 
+
+In this course, you practice with real-life examples of Machine learning and see how it affects society in ways you may not have guessed!
+
+By just putting in a few hours a week for the next few weeks, this is what you’ll get.
+1) New skills to add to your resume, such as regression, classification, clustering, sci-kit learn and SciPy 
+2) New projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
+3) And a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media.
+
+If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge upon successful completion of the course.",Data Scientist,2517
+Databases and SQL for Data Science,"Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.
+
+The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
+
+The emphasis in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
+
+No prior knowledge of databases, SQL, Python, or programming is required.
+
+Anyone can audit this course at no-charge. If you choose to take this course and earn the Coursera course certificate, you can also earn an IBM digital badge upon successful completion of the course.
+
+LIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.",Data Engineer,545
+Google Cloud Platform Big Data and Machine Learning Fundamentals,"This 2-week accelerated on-demand course introduces participants to the Big Data and Machine Learning capabilities of Google Cloud Platform (GCP). It provides a quick overview of the Google Cloud Platform and a deeper dive of the data processing capabilities.
+
+At the end of this course, participants will be able to:
+• Identify the purpose and value of the key Big Data and Machine Learning products in the Google Cloud Platform
+• Use CloudSQL and Cloud Dataproc to migrate existing MySQL and Hadoop/Pig/Spark/Hive workloads to Google Cloud Platform
+• Employ BigQuery and Cloud Datalab to carry out interactive data analysis
+• Choose between Cloud SQL, BigTable and Datastore
+• Train and use a neural network using TensorFlow
+• Choose between different data processing products on the Google Cloud Platform
+
+Before enrolling in this course, participants should have roughly one (1) year of experience with one or more of the following:
+• A common query language such as SQL
+• Extract, transform, load activities
+• Data modeling
+• Machine learning and/or statistics
+• Programming in Python
+
+Google Account Notes:
+• Google services are currently unavailable in China.",Data Engineer,1015
+Big Data Modeling and Management Systems,"Once you’ve identified a big data issue to analyze, how do you collect, store and organize your data using Big Data solutions?  In this course, you will experience various data genres and management tools appropriate for each.  You will be able to describe the reasons behind the evolving plethora of new big data platforms from the perspective of big data management systems and analytical tools.  Through guided hands-on tutorials, you will become familiar with techniques using real-time and semi-structured data examples.  Systems and tools discussed include: AsterixDB, HP Vertica, Impala, Neo4j, Redis, SparkSQL. This course provides techniques to extract value from existing untapped data sources and discovering new data sources.
+
+At the end of this course, you will be able to:
+ * Recognize different data elements in your own work and in everyday life problems
+ * Explain why your team needs to design a Big Data Infrastructure Plan and Information System Design
+ * Identify the frequent data operations required for various types of data
+ * Select a data model to suit the characteristics of your data 
+ * Apply techniques to handle streaming data
+ * Differentiate between a traditional Database Management System and a Big Data Management System
+ * Appreciate why there are so many data management systems
+ * Design a big data information system for an online game company
+
+This course is for those new to data science.  Completion of Intro to Big Data is recommended.  No prior programming experience is needed, although the ability to install applications and utilize a virtual machine is necessary to complete the hands-on assignments.  Refer to the specialization technical requirements for complete hardware and software specifications.
+
+Hardware Requirements: 
+(A) Quad Core Processor (VT-x or AMD-V support recommended), 64-bit; (B) 8 GB RAM; (C) 20 GB disk free. How to find your hardware information: (Windows): Open System by clicking the Start button, right-clicking Computer, and then clicking Properties; (Mac): Open Overview by clicking on the Apple menu and clicking “About This Mac.” Most computers with 8 GB RAM purchased in the last 3 years will meet the minimum requirements.You will need a high speed internet connection because you will be downloading files up to 4 Gb in size. 
+
+Software Requirements: 
+This course relies on several open-source software tools, including Apache Hadoop. All required software can be downloaded and installed free of charge (except for data charges from your internet provider). Software requirements include: Windows 7+, Mac OS X 10.10+, Ubuntu 14.04+ or CentOS 6+ VirtualBox 5+.",Data Engineer,4233
+Database Management Essentials,"Database Management Essentials provides the foundation you need for a career in database development, data warehousing, or business intelligence, as well as for the entire Data Warehousing for Business Intelligence specialization. In this course, you will create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. As you develop these skills, you will use either Oracle, MySQL, or PostgreSQL to execute SQL statements and a database diagramming tool such as the ER Assistant or Visual Paradigm to create ERDs. We’ve designed this course to ensure a common foundation for specialization learners. Everyone taking the course can jump right in with writing SQL statements in Oracle, MySQL, or PostgreSQL.",Data Engineer,3763
+"Data Warehouse Concepts, Design, and Data Integration","This is the second course in the Data Warehousing for Business Intelligence specialization. Ideally, the courses should be taken in sequence.
+
+In this course, you will learn exciting concepts and skills for designing data warehouses and creating data integration workflows. These are fundamental skills for data warehouse developers and administrators. You will have hands-on experience for data warehouse design and use open source products for manipulating pivot tables and creating data integration workflows. In the data integration assignment, you can use either Oracle, MySQL, or PostgreSQL databases. You will also gain conceptual background about maturity models, architectures, multidimensional models, and management practices, providing an organizational perspective about data warehouse development. If you are currently a business or information technology professional and want to become a data warehouse designer or administrator, this course will give you the knowledge and skills to do that. By the end of the course, you will have the design experience, software background, and organizational context that prepares you to succeed with data warehouse development projects. 
+
+In this course, you will create data warehouse designs and data integration workflows that satisfy the business intelligence needs of organizations. When you’re done with this course, you’ll be able to:
+   * Evaluate an organization for data warehouse maturity and business architecture alignment;
+   * Create a data warehouse design and reflect on alternative design methodologies and design goals;
+   * Create data integration workflows using prominent open source software;
+   * Reflect on the role of change data, refresh constraints, refresh frequency trade-offs, and data quality goals in data integration process design; and
+   * Perform operations on pivot tables to satisfy typical business analysis requests using prominent open source software",Data Engineer,1311
